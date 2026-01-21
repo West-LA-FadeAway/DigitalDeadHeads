@@ -11,4 +11,4 @@ We have a specialized AI agent configured for this repository:
 ## 🛠 Getting Started
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/West-LA-FadeAway/DigitalDeadHeads.git](https://github.com/West-LA-FadeAway/DigitalDeadHeads.git)
+   git clone [https://github.com/West-LA-FadeAway/DigitalDeadHeads.git]
