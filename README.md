@@ -29,7 +29,15 @@ Verify the Source: Help us validate hashes for historical recordings.
 
 Spread the Sound: Our goal is a node in every city, a copy of the music in every heart.
 
----
+---## ⚡️ Keeping the Bus on the Road
+Building the Unbroken Chain requires servers, bandwidth, and long nights of coding. We are currently "touring" on a shoestring budget to keep this archive alive.
+
+### How You Can Help:
+* **Sponsor a Node:** Help us cover the costs of decentralized storage via [GitHub Sponsors](link).
+* **Bounty Hunting:** We are actively hunting bugs across the ecosystem to fund this project. If you are a dev who wants to join our "Security Caravan," check out our [Bounty Board](link).
+* **Crypto Donations:** Send some ETH or AR to help us "pin" the tapes forever: `0x...youraddress`
+
+> *"Sometimes the light's all shinin' on me, other times I can barely see..."*
 
 ## ⚖️ License: Keeping the Music Free
 In the spirit of the legendary taper culture, this project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
