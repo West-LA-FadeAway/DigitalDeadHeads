@@ -2,8 +2,10 @@
 
 We celebrate life with Bill Kreutzmann and Mickey Hart as we take up the mantle as the digital tapers of the 21st century.
 
-🛠 The Mission: Decentralize the Vault
-Immutability: Once a show is on-chain (IPFS/Arweave), it is permanent. No corporate entity can "delete" a performance.
+## 🛠 The Mission: Decentralize the Vault
+Our mission is to move the Grateful Dead archives into a fully decentralized ecosystem. 
+
+> **[Read the Unbroken Chain Manifesto](./MANIFESTO.md)** – *Our philosophy on the Dead as the original pioneers of P2P.*
 
 Open Source Spirit: Just as the Dead allowed the music to be free, our code and metadata are open to all.
 
