@@ -29,6 +29,15 @@ Verify the Source: Help us validate hashes for historical recordings.
 
 Spread the Sound: Our goal is a node in every city, a copy of the music in every heart.
 
+---
+
+## ⚖️ License: Keeping the Music Free
+In the spirit of the legendary taper culture, this project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+* **You are free to:** Share, remix, and transform this archive.
+* **Under these terms:** You must give credit, you may **not** use the material for commercial purposes, and you must distribute your contributions under the same license.
+
+*"Once in a while you get shown the light in the strangest of places if you look at it right."*
 ## 🛠 Getting Started
 1. **Clone the repo:**
    ```bash
